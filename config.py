@@ -37,7 +37,7 @@ MUSIC_SEARCH = os.environ.get("MUSIC_SEARCH", "no").lower()
 
 
 
-TG_BOT_SESSION = os.environ.get("TG_BOT_SESSION", "bot")
+TG_BOT_SESSION = os.environ.get("TG_BOT_SESSION", "BQC3Wbx1ah8TiPyWKyO7dmk08HjCYLGgqvlNM1VCfl5htfqc0pZml-UCedPS4RxwDZ7oEozTRwCaJnPPr2xmNteDwb0e1kOC4P_npYauss4HyIClYDQt1E-h7ajsU12AgXYre1YqR4FHZwsk-HPR3TaAnUomQyjCVrjt0YnFZ2T7uuwhvDZXGYQLGITPj_AYyhel1R_GWocha5VwFPfln8fl2fd3LIw33VjLPZ8k5btkF9GIGonzwOOUJ_IYovg9U8l6frknmlSfepmBccL5jRppOzB9ZiwLvdI4leOGjPYgUF97r3XHh8KRysIRr_Ib8IQ7lAazST833H71ifOo1k_AAAAAACOLYaUA")
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 LOG_FILE_NAME = "filterbot.txt"
 
